@@ -60,4 +60,4 @@ class LessyPad():
     def exit(self):
         self.root.destroy()
 
-aa = LessyPad()
+LessyPadRun = LessyPad()
